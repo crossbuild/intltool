@@ -5,6 +5,7 @@ EXTRA_DIST =					\
 	context.xml.in				\
 	extract-comments.xml			\
 	extract-gtkbuilder.ui			\
+	extract-gtkbuilder-single.ui		\
 	extract1.desktop			\
 	extract10.templates_			\
 	extract12.xml.in			\
@@ -16,6 +17,7 @@ EXTRA_DIST =					\
 	extract8.glade				\
 	extract9.po				\
 	extract9.xml.in				\
+	extract-qtdesigner.ui			\
 	fr.po					\
 	fr_BE.po				\
 	fr_FR.po				\
@@ -50,6 +52,7 @@ CLEANFILES =					\
 	context.xml.in.h			\
 	extract-comments.xml.h			\
 	extract-gtkbuilder.ui.h			\
+	extract-gtkbuilder-single.ui.h		\
 	extract1.desktop.h			\
 	extract10.templates_.h			\
 	extract12.xml.in.h			\
@@ -58,6 +61,7 @@ CLEANFILES =					\
 	extract14.xml.in.h			\
 	extract9.xml				\
 	extract9.xml.in.h			\
+	extract-qtdesigner.ui.h			\
 	gsettings.gschema.xml.h			\
 	iso88591text.xml.in.h			\
 	merge-cdata.xml				\
